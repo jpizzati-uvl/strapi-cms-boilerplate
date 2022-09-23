@@ -1,6 +1,6 @@
 # Strapi Boilerplate
 
-This boilerplate comes is a plug-n-play version of Strapi V4 with the following basic plugins:
+This boilerplate comes is a plug-n-play version of Strapi V4 with the following plugins pre-installed:
 
 - Strapi SEO (https://market.strapi.io/plugins/@strapi-plugin-seo)
 - Strapi Sitemap (https://market.strapi.io/plugins/strapi-plugin-sitemap)
