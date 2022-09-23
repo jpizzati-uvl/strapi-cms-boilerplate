@@ -1,3 +1,21 @@
+# Strapi Boilerplate
+
+This boilerplate comes is a plug-n-play version of Strapi V4 with the following basic plugins:
+
+- Strapi SEO (https://market.strapi.io/plugins/@strapi-plugin-seo)
+- Strapi Sitemap (https://market.strapi.io/plugins/strapi-plugin-sitemap)
+- Strapi Config-Sync (https://market.strapi.io/plugins/strapi-plugin-config-sync)
+- Strapi TipTap Editor (https://market.strapi.io/plugins/strapi-tiptap-editor)
+- Strapi Rest Cache (https://market.strapi.io/plugins/strapi-plugin-rest-cache)
+- Strapi SFTP provider File Uploads (https://github.com/finnoconsult/strapi-provider-upload-sftp)
+
+Additionally, it also includes a "Page" collection type with the SEO plugin enabled.
+
+# Running the boilerplate
+
+You can run it both locally or by running "docker compose up" on the docker-compose-dev file already included (Docker installation is required).
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
@@ -55,3 +73,4 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
